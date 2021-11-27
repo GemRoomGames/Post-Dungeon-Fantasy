@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Dan Phipps"
 description              : "What happens when you take a perfectly good fantasy setting and give it cell towers"
-url                      : #
+url                      : https://postdungeon.games
 baseurl                  : #
 repository               : "GemRoomGames/Post-Dungeon_Fantasy"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
