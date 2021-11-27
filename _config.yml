@@ -22,7 +22,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "Dan Phipps"
 description              : "What happens when you take a perfectly good fantasy setting and give it cell towers"
 url                      : "https://www.postdungeon.games"
-baseurl                  : #
+baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "GemRoomGames/Post-Dungeon_Fantasy"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"

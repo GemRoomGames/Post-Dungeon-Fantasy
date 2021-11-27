@@ -30,20 +30,18 @@ The body of work is so large, in fact, that I'm confident that there are excepti
 
 # What Is Post-Dungeon Fantasy
 
-In a Post-Dungeon Fantasy, the age of Dungeon Fantasy is history. The dungeons are delved, the riches redistributed, and the inexorable march of time proceeds. Like Dungeon Fantasy the setting exists to support gameplay. However, the ideas of what an adventurer and a dungeon can be shifts in this intentionally anachronistic fantasy setting to allow for newer concerns and tropes to come into play.
-
 The following themes are common, and arguably defining, in Post-Dungeon Fantasy:
 
-+ **Focus on Play**
++ **A World for Adventurers**
 + **A Twenty-First Century Fantasy**
 + **The High Tech and the Pastoral**
 + **Complicated Relationships with Power**
 
-## Focus on Play
+## A World for Adventurers
 
-Like Dungeon Fantasy, Post-Dungeon Fantasy is primarily concerned with supporting play. The Dungeon, on the face of it, doesn't make a ton of sense but its a disbelief we are willing to suspend in the name of having a good time together. The unique qualities that make Fantasy such a ripe environment for play, and an appreciation for those qualities, is mirrored in Post-Dungeon Fantasy. The same toys are available to play with, but the narrative justifications have changed.
+Adventurers, like orchids, require specific conditions and care to thrive. The world around them must be broken in a particular way, ruled by governments strong enough to stand but weak enough to rely on roving fellowships of weirdo mercenaries. There should be maps, but they should be incomplete. A world of poorly-kept secrets, and dangers just perilous enough to keep everyone but our protagonists at bay. And, of course, temporarily contained dungeons of all stripes threatening to boil over if ignored. Whether its a world at the tipping point between good and evil or a grim era of mud and disease, there are adventurers and there is something for them to do.
 
-All of this is to say: The Borderland is still a borderland and the Keep can be kept, but when we ask ourselves what kind of person puts a bunch of horrors in a tomb and then goes around calling it *The Tomb of Horrors*, our answer might be different here. Going to extremes in pursuit of forbidden power is always in fashion, but opening ourselves to a modern sort of fantasy gives us a new palette of motivations.
+Post-Dungeon Fantasies use different props and paint with a different palette, but the world is broken in the same way. The world needs adventurers to plumb its depths in the form of subway tunnels, power plants, venues for bloodsport, bank vaults, or the classic ancient ruin. We may seek to seal away an ancient evil or just have a higher subscriber count by the time we get home. The same disbeliefs need suspension whether someone filled a perfectly good tomb with horrors in pursuit of forbidden power or a particularly gruesome gameshow. If all the old dungeons are delved, we'll just have to make our own.
 
 ## A Twenty-First Century Fantasy
 
