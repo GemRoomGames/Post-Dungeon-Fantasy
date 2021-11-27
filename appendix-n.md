@@ -50,11 +50,11 @@ Coming Soon: RADCrawl and Pommel Ball by Brandon Leon Gambetta of Mutant Orchid 
 
 # Actual Play Podcasts and Streams
 
-## All My Fantasy Children<br>
+## <a href="http://oneshotpodcast.com/interview-discussion/all-my-fantasy-children/">All My Fantasy Children</a><br>
 ><iframe width="420" height="315" src="https://www.youtube.com/embed/MHVjWBhoC7s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## <a href="https://www.rudetalesofmagic.com/">Rude Tales of Magic</a>
 ><iframe width="280" height="157" src="https://www.youtube.com/embed/ZVcTKb_3PW4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Dimension 20s Fantasy High<br>
-><iframe width="280" height="157" src="https://www.youtube.com/embed/yKHP2mPv7Ws" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## <a href="https://brennanleemulligan.com/fantasy-high/">Dimension 20s Fantasy High</a><br>
+><iframe width="560" height="315" src="https://www.youtube.com/embed/_zZxCVBi7-k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
