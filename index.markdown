@@ -1,0 +1,71 @@
+---
+title: "Post-Dungeon Fantasy"
+layout: splash
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.25"
+  overlay_image: /assets/splash/antenna.jpg
+excerpt: "What happens when you take a perfectly good fantasy and give it gig economies, cell phone towers, and anxiety?"
+---
+
+> An attempt to describe a genre of game without confining it. Written by Dan Phipps and inspired by conversations with Kali Lawrie, Brandon Leon-Gambetta, and Kegan.exe.
+
+In the month leading up to the release of High Magic Lowlives I spent a disproportionate amount of time trying to figure out it's genre. A punchy, two or three word phrase that would encapsulate it's general deal. You see, HMLL concerns itself with irony-poisoned, cell phone toting wizard school dropouts committing crimes against a feudal Immortal Aristocracy who get their powers from flying into space to hunt Gods. Too much aerospace for Traditional Fantasy, too medieval for Cyberpunk, too weird for Urban Fantasy, too grounded for Science Fantasy. I knew other fantasy tabletop games had touches of modern tech, but couldn't find the words to describe it. The question remained...
+
+<span style="color:deeppink"> **What sort of Fantasy is a medieval world littered with 21st century technology, sensibilities, and concerns?**
+
+Since then we've had the benefit of meeting a number of big brain geniuses in the TTRPG design space, and have recently gotten to talking to Kegan about DungeonDelvers.TV and Brandon about RADCrawl. The promise of a shared <a href="https://www.wizardthieffighter.com/2019/anti-canon-worlds-and-the-uvg/" target="_blank">Anti Canon World</a> to set our games in gave me yet another audience for my weird genre obsession and Post-Dungeon Fantasy stuck.
+
+With some concern about ruining a good thing by naming it, I wanted to write up a broad description on Post-Dungeon Fantasy as a pointer for folks curious about what it implies. But before we get too much further we should spent a little time on what we mean by Dungeon Fantasy.
+
+# What Is Dungeon Fantasy
+
+For the purposes of this piece, Dungeon Fantasy should be understood as a subtype of fantasy narrative with substantial consideration given to serving as a vessel into which one may pour adventurers. The existence of the "dungeon" embodies this - an enticing treasure at the center of an ecosystem of dangers populated by worthy foes. From the dungeon we can work backwards to justify the world around it - the history of the treasure, the whys and wherefores of those who jealously guard it, the elite few who know of its existence but are unable or uninterested in seeking it out themselves.
+
+Fantasy serves this act of world construction well. The dungeon nestles comfortably into the established tropes of bandit lords, greedy dragons, abducted princesses, and wicked advisors. A range of gameplay elements interlock naturally with a range of fantasy types and player expectations. It is a classic for a reason, and the body of work that would fall under this definition is large, growing, and not necessarily restricted to games.
+
+The body of work is so large, in fact, that I'm confident that there are exceptions to everything that follows but nevertheless we carry on. It's reasonable to expect that a "generic" Dungeon Fantasy varies on a theme of exploration into dangerous places, violent encounters, and the acquisition of anything sufficiently shiny. A layer of moral justification is typically applied to keep this from being mere armed robbery. If life is not made sufficiently miserable for The Forces of Evil then the world will be a worse place. Those who would ask you to take on this dangerous, profitable, and enjoyable burden are justified in their request, like the farmers begging the aid of Seven Samurai.
+>### This Is Not a Critique of Dungeon Fantasy
+>Numerous writers smarter than I am have looked critically at Dungeon Fantasy (or prominent examples thereof) for upholding colonialist, imperialist, or racist views among others and those critiques are worthy considerations. This is doubly true if you're setting out to write one. This markdown document, however, is about Post-Dungeon Fantasy so lets get to that.
+
+# What Is Post-Dungeon Fantasy
+
+In a Post-Dungeon Fantasy, the age of Dungeon Fantasy is history. The dungeons are delved, the riches redistributed, and the inexorable march of time proceeds. Like Dungeon Fantasy the setting exists to support gameplay. However, the ideas of what an adventurer and a dungeon can be shifts in this intentionally anachronistic fantasy setting to allow for newer concerns and tropes to come into play.
+
+The following themes are common, and arguably defining, in Post-Dungeon Fantasy:
+
++ **Focus on Play**
++ **A Twenty-First Century Fantasy**
++ **The High Tech and the Pastoral**
++ **Complicated Relationships with Power**
+
+## Focus on Play
+
+Like Dungeon Fantasy, Post-Dungeon Fantasy is primarily concerned with supporting play. The Dungeon, on the face of it, doesn't make a ton of sense but its a disbelief we are willing to suspend in the name of having a good time together. The unique qualities that make Fantasy such a ripe environment for play, and an appreciation for those qualities, is mirrored in Post-Dungeon Fantasy. The same toys are available to play with, but the narrative justifications have changed.
+
+All of this is to say: The Borderland is still a borderland and the Keep can be kept, but when we ask ourselves what kind of person puts a bunch of horrors in a tomb and then goes around calling it *The Tomb of Horrors*, our answer might be different here. Going to extremes in pursuit of forbidden power is always in fashion, but opening ourselves to a modern sort of fantasy gives us a new palette of motivations.
+
+## A Twenty-First Century Fantasy
+
+Like Dungeon Fantasy, we walk backwards from play into worldbuilding. Unlike Dungeon Fantasy, these justifications reflect the sensibilities and concerns of our time. It is intentionally anachronistic, nullifying concerns and considerations about historical realism by providing familiar landmarks. Any justification for, say, mistreating one's servant as being appropriate in-context is removed. That person's just being a rich jerk, and probably not someone you'd want to spend time with.
+
+To quote Aaron King's *Patchwork World Sixth Edition*:
+>This means the game might be unyoked from the "classics" of the 20th century. Serfdom, misogyny, slavery, and other staples of Medieval fantasy are not the default here, and players shouldn't justify anything in the game with phrases like "that's how things were in the past."
+
+This anachronism also opens up narrative elements typically associated with urban fantasy and cyberpunk stories. The unreliable narrator of history, the machinations of corporations, the fine print in your terms of use agreement all fit as comfortably in a Post-Dungeon fantasy as a bear rug in a local count's great hall.
+
+## The High Tech and the Pastoral
+
+From a literary perspective, Post-Dungeon Fantasy reflects the Information Age in a way that's unique from cyberpunk and urban fantasy by highlighting its absurdity. The ability to take a rideshare to a haunted castle makes the same lack of sense as it does to take a rideshare to the airport. Concern over subscriber counts in the midst of a battle with a skeleton wizard is as grim a satire as a crowdfunded medical procedure. The de jour solution to governmental overreach and incompetence is a digital currency which is only accessible to hyper-connected early adopters, a concept so out of touch with real-world inequality it defies belief. We live in a cyberpunk dystopia so stupid that actual cyberpunk fails to capture it's zeitgeist simply by depicting the megacorporations at its center as competent.
+
+From a gameplay perspective this environment empowers both the protagonists and their adversaries. Access to a cell phone grants each adventurer cursed ring by default, which promises power while inviting the gaze of those who would profit for them or do them harm. Magic is often depicted in fantasy as powerful but dangerous. Technology has the same potential to invite a similar deal with a different sort of devil.
+
+## Complicated Relationships with Power
+
+As an extension of the nature of technology is the uncomfortable position in which our adventurers find themselves. Post-Dungeon Fantasy protagonists rely on the tools of modern life to participate meaningfully in society, and in employing these tools they must pay a thousand small costs to the rich and powerful. The premise of a Dungeon Fantasy demands that an adventurer choose not to opt out of the dungeon delve (it is, after all, why the players went through the hassle of finding a time when everyone could play). By the same token these same adventurers have limited capacity to opt-out of the ecosystems implied by modern technology. It is baked into their world in the same way as ours.
+
+A Post-Dungeon Fantasy invites an essential tension between the desire to be a hero and adding to the tremendous wealth of a caste that built an unjust world. The opportunity for heroism among the powerless invites a dim view of those who hold meaningful power. The kings and corporations that reign over a Post-Dungeon Fantasy are often depicted as caprecious, callous, and cruel. And yet, inherent in fantasy is a world not yet fully defined. Everything which empowers an adventurer empowers them to change the world. A Post-Dungeon Fantasy is a world of fruitful voids, and cannot help itself but present opportunities to change.
+
+# Conclusion
+
+There's something in the air, or at least I hope there is, of a unique variant on Science Fantasy, Urban Fantasy, and Cyberpunk games that hews closer to the traditional Fantasy palette. The distinction between a modern city (or megacity) with witches versus a fantasy borderland with cell towers is a meaningful one, promising different modes of play and accomplishing different goals. It's a variation on a classic theme, as the growing Appendix-N of touchstones and examples demonstrates, but it's the setting signifier I wish we'd had when we were selling people on High Magic Lowlives. Hopefully it's of some use to you too!
