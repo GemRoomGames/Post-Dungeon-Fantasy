@@ -42,12 +42,11 @@ Coming Soon: RADCrawl and Pommel Ball by Brandon Leon Gambetta of Mutant Orchid 
 
 <iframe src="https://itch.io/embed/623960?dark=true" height="167" width="552" frameborder="0"><a href="https://amandalee.itch.io/you-got-a-job-on-the-garbage-barge">YOU GOT A JOB ON THE GARBAGE BARGE by amandalee</a></iframe>
 <iframe src="https://itch.io/embed/949581?dark=true" height="167" width="552" frameborder="0"><a href="https://worldchampgameco.itch.io/scratchandclaw">Scratch &amp; Claw by World Champ Game Co.</a></iframe>
-<iframe src="https://itch.io/embed/919803?dark=true" height="167" width="552" frameborder="0"><a href="https://vagabondpenandpaper.itch.io/our-minerva">Our Minerva by Vagabond Pen &amp; Paper</a></iframe><br>
-
+<iframe src="https://itch.io/embed/919803?dark=true" height="167" width="552" frameborder="0"><a href="https://vagabondpenandpaper.itch.io/our-minerva">Our Minerva by Vagabond Pen &amp; Paper</a></iframe>
 ## Zines and Ephemera
 
 <iframe src="https://itch.io/embed/936272?dark=true" height="167" width="552" frameborder="0"><a href="https://sandypuggames.itch.io/wizardpunk">WIZARDPUNK by Sandy Pug Games</a></iframe>
-
+<br>
 # Actual Play Podcasts and Streams
 
 ## <a href="http://oneshotpodcast.com/interview-discussion/all-my-fantasy-children/">All My Fantasy Children</a><br>
