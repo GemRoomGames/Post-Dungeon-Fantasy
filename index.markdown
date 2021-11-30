@@ -36,7 +36,6 @@ The following themes are common, and arguably defining, in Post-Dungeon Fantasy:
 + **The High Tech and the Pastoral**
 + **Complicated Relationships with Power**
 + **Our Own Twenty-First Century Fantasy**
-
 ## A World for Adventurers
 
 Adventurers, like orchids, require specific conditions and care to thrive. The world around them must be broken in a particular way, ruled by governments strong enough to stand but weak enough to rely on roving fellowships of weirdo mercenaries. There should be maps, but they should be incomplete. A world of poorly-kept secrets, and dangers just perilous enough to keep everyone but our protagonists at bay. And, of course, temporarily contained dungeons of all stripes threatening to boil over if ignored. Whether its a world at the tipping point between good and evil or a grim era of mud and disease, there are adventurers and there is something for them to do.
