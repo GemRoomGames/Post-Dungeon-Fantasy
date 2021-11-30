@@ -36,17 +36,17 @@ Coming Soon: RADCrawl and Pommel Ball by Brandon Leon Gambetta of Mutant Orchid 
 
 <iframe src="https://itch.io/embed/445728?dark=true" height="167" width="552" frameborder="0"><a href="https://boyproblems.itch.io/boy-problems">Boy Problems by boyproblems</a></iframe>
 <iframe src="https://itch.io/embed/478214?dark=true" height="167" width="552" frameborder="0"><a href="https://temporalhiccup.itch.io/balikbayan">BALIKBAYAN: Returning Home by Jamila R. Nedjadi</a></iframe>
-
-## Multiclass: Post-Dungeon & Urban Fantasy
-
 <iframe src="https://itch.io/embed/1064728?dark=true" height="167" width="552" frameborder="0"><a href="https://ostrichmonkey.itch.io/vibe-check">Vibe Check - Enter the Inversion by Josh Hittie</a></iframe>
-<iframe src="https://itch.io/embed/467962?dark=true" height="167" width="552" frameborder="0"><a href="https://kurtpotts.itch.io/lighthearted">Lighthearted by Kurt Potts, Kate Potts</a></iframe>
 
 ## Multiclass: Post-Dungeon & Science Fantasy
 
 <iframe src="https://itch.io/embed/623960?dark=true" height="167" width="552" frameborder="0"><a href="https://amandalee.itch.io/you-got-a-job-on-the-garbage-barge">YOU GOT A JOB ON THE GARBAGE BARGE by amandalee</a></iframe>
-<iframe src="https://itch.io/embed/802104?dark=true" height="167" width="552" frameborder="0"><a href="https://worldchampgameco.itch.io/necronautilus">Necronautilus by World Champ Game Co.</a></iframe>
+<iframe src="https://itch.io/embed/949581?dark=true" height="167" width="552" frameborder="0"><a href="https://worldchampgameco.itch.io/scratchandclaw">Scratch &amp; Claw by World Champ Game Co.</a></iframe>
 <iframe src="https://itch.io/embed/919803?dark=true" height="167" width="552" frameborder="0"><a href="https://vagabondpenandpaper.itch.io/our-minerva">Our Minerva by Vagabond Pen &amp; Paper</a></iframe><br>
+
+## Zines and Ephemera
+
+<iframe src="https://itch.io/embed/936272?dark=true" height="167" width="552" frameborder="0"><a href="https://sandypuggames.itch.io/wizardpunk">WIZARDPUNK by Sandy Pug Games</a></iframe>
 
 # Actual Play Podcasts and Streams
 
