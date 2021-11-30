@@ -33,24 +33,15 @@ The body of work is so large, in fact, that I'm confident that there are excepti
 The following themes are common, and arguably defining, in Post-Dungeon Fantasy:
 
 + **A World for Adventurers**
-+ **A Twenty-First Century Fantasy**
 + **The High Tech and the Pastoral**
 + **Complicated Relationships with Power**
++ **Our Own Twenty-First Century Fantasy**
 
 ## A World for Adventurers
 
 Adventurers, like orchids, require specific conditions and care to thrive. The world around them must be broken in a particular way, ruled by governments strong enough to stand but weak enough to rely on roving fellowships of weirdo mercenaries. There should be maps, but they should be incomplete. A world of poorly-kept secrets, and dangers just perilous enough to keep everyone but our protagonists at bay. And, of course, temporarily contained dungeons of all stripes threatening to boil over if ignored. Whether its a world at the tipping point between good and evil or a grim era of mud and disease, there are adventurers and there is something for them to do.
 
 Post-Dungeon Fantasies use different props and paint with a different palette, but the world is broken in the same way. The world needs adventurers to plumb its depths in the form of subway tunnels, power plants, venues for bloodsport, bank vaults, or the classic ancient ruin. We may seek to seal away an ancient evil or just have a higher subscriber count by the time we get home. The same disbeliefs need suspension whether someone filled a perfectly good tomb with horrors in pursuit of forbidden power or a particularly gruesome gameshow. If all the old dungeons are delved, we'll just have to make our own.
-
-## A Twenty-First Century Fantasy
-
-Like Dungeon Fantasy, we walk backwards from play into worldbuilding. Unlike Dungeon Fantasy, these justifications reflect the sensibilities and concerns of our time. It is intentionally anachronistic, nullifying concerns and considerations about historical realism by providing familiar landmarks. Any justification for, say, mistreating one's servant as being appropriate in-context is removed. That person's just being a rich jerk, and probably not someone you'd want to spend time with.
-
-To quote Aaron King's *Patchwork World Sixth Edition*:
->This means the game might be unyoked from the "classics" of the 20th century. Serfdom, misogyny, slavery, and other staples of Medieval fantasy are not the default here, and players shouldn't justify anything in the game with phrases like "that's how things were in the past."
-
-This anachronism also opens up narrative elements typically associated with urban fantasy and cyberpunk stories. The unreliable narrator of history, the machinations of corporations, the fine print in your terms of use agreement all fit as comfortably in a Post-Dungeon fantasy as a bear rug in a local count's great hall.
 
 ## The High Tech and the Pastoral
 
@@ -62,7 +53,16 @@ From a gameplay perspective this environment empowers both the protagonists and 
 
 As an extension of the nature of technology is the uncomfortable position in which our adventurers find themselves. Post-Dungeon Fantasy protagonists rely on the tools of modern life to participate meaningfully in society, and in employing these tools they must pay a thousand small costs to the rich and powerful. The premise of a Dungeon Fantasy demands that an adventurer choose not to opt out of the dungeon delve (it is, after all, why the players went through the hassle of finding a time when everyone could play). By the same token these same adventurers have limited capacity to opt-out of the ecosystems implied by modern technology. It is baked into their world in the same way as ours.
 
-A Post-Dungeon Fantasy invites an essential tension between the desire to be a hero and adding to the tremendous wealth of a caste that built an unjust world. The opportunity for heroism among the powerless invites a dim view of those who hold meaningful power. The kings and corporations that reign over a Post-Dungeon Fantasy are often depicted as caprecious, callous, and cruel. And yet, inherent in fantasy is a world not yet fully defined. Everything which empowers an adventurer empowers them to change the world. A Post-Dungeon Fantasy is a world of fruitful voids, and cannot help itself but present opportunities to change.
+A Post-Dungeon Fantasy invites an essential tension between the desire to be a hero and adding to the tremendous wealth of a caste that built an unjust world. The opportunity for heroism among the powerless invites a dim view of those who hold meaningful power. The kings and corporations that reign over a Post-Dungeon Fantasy are often depicted as capricious, callous, and cruel. And yet, inherent in fantasy is a world not yet fully defined. Everything which empowers an adventurer empowers them to change the world. A Post-Dungeon Fantasy is a world of fruitful voids, and cannot help itself but present opportunities to change.
+
+## Our Own Twenty-First Century Fantasy
+
+But how will our adventurers change it? The introduction of modern (or modern-adjacent) technology provides a sign of the times, and a signifier for the implied modern social mores, cultural expectations, and ethical considerations. This is the antithesis of a setting that attempts to justify witch hunts and inquisitors by making their superstitions into real threats.
+
+To quote Aaron King's *Patchwork World Sixth Edition*:
+>This means the game might be unyoked from the "classics" of the 20th century. Serfdom, misogyny, slavery, and other staples of Medieval fantasy are not the default here, and players shouldn't justify anything in the game with phrases like "that's how things were in the past."
+
+In a Post-Dungeon Fantasy, as in our own world, we may encounter people who believe themselves superior on justifications of race, creed, or class. There will be those who blindly follow notions of honor or glory into committing what we, the audience, rightfully consider atrocities. And in a Post-Dungeon Fantasy as in our world these behaviors are not justified. They're the actions of assholes, or worse. Fundamentally it is a fantasy tied to our own world, and where the Post-Dungeon Fantasy empowers its adventurers, it does so to remake the world as one where the players would want to go.
 
 # Conclusion
 
