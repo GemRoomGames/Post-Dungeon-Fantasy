@@ -31,6 +31,7 @@ gallery:
 <iframe src="https://itch.io/embed/1295296?dark=true" height="167" width="552" frameborder="0"><a href="https://bleongambetta.itch.io/radcrawl">RADCrawl: Minimum Viable Product Release by Brandon Leon-Gambetta</a></iframe>
 <iframe src="https://itch.io/embed/1019699?dark=true" height="167" width="552" frameborder="0"><a href="https://erinking.itch.io/patchwork-world-sixth-edition">Patchwork World Sixth Edition by Aaron King</a></iframe>
 <iframe src="https://itch.io/embed/1136670?dark=true" height="167" width="552" frameborder="0"><a href="https://mqsalmon.itch.io/grimoirepunk">GrimoirePunk by Mitchell Salmon</a></iframe>
+<iframe height="167" frameborder="0" src="https://itch.io/embed/878709?dark=true" width="552"><a href="https://wilkies.itch.io/slugblaster">SLUGBLASTER by Wilkie&#039;s Candy Lab</a></iframe>
 <br>
 Coming Soon: RADCrawl and Pommel Ball by Brandon Leon Gambetta of Mutant Orchid Games
 
@@ -39,6 +40,7 @@ Coming Soon: RADCrawl and Pommel Ball by Brandon Leon Gambetta of Mutant Orchid 
 <iframe src="https://itch.io/embed/445728?dark=true" height="167" width="552" frameborder="0"><a href="https://boyproblems.itch.io/boy-problems">Boy Problems by boyproblems</a></iframe>
 <iframe src="https://itch.io/embed/478214?dark=true" height="167" width="552" frameborder="0"><a href="https://temporalhiccup.itch.io/balikbayan">BALIKBAYAN: Returning Home by Jamila R. Nedjadi</a></iframe>
 <iframe src="https://itch.io/embed/1064728?dark=true" height="167" width="552" frameborder="0"><a href="https://ostrichmonkey.itch.io/vibe-check">Vibe Check - Enter the Inversion by Josh Hittie</a></iframe>
+<iframe height="167" frameborder="0" src="https://itch.io/embed/1527181?dark=true" width="552"><a href="https://worldchampgameco.itch.io/cybermetal2012">Cybermetal 2012 by World Champ Game Co.</a></iframe>
 
 ## Multiclass: Post-Dungeon & Science Fantasy
 
